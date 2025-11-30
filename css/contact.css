@@ -1,0 +1,45 @@
+h2 {
+    padding-top: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.contact-form {
+    width: 350px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+button {
+    padding: 12px;
+    font-size: 16px;
+    background: #555;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.cfooter {
+    margin-top: 203px;
+}
